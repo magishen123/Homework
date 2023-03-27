@@ -1,0 +1,3 @@
+predl = input('>>>')
+
+predl.remove('--')
